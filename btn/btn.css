@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.przycisk{
+background-color: grey;
+color: white;
+border-color: grey;
+height: 30px;
+font-size: medium;
+font-family: 'Roboto', sans-serif;
+}
