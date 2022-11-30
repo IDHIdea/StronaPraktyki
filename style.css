@@ -63,7 +63,7 @@ section{
     min-height: 962px;
     display: flex;
     align-items: center;
-    background-image: url('/images/bg.png');
+    background-image: url('/StronaPraktyki/bg.jpg');
     background-size: cover;
     background-position: center;
 }
